@@ -1,0 +1,31 @@
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\bin\Debug\Liga.exe.config
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\bin\Debug\Liga.exe
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\bin\Debug\Liga.pdb
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.csprojResolveAssemblyReference.cache
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.Properties.Resources.resources
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.csproj.GenerateResource.Cache
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.exe
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.pdb
+c:\users\arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.FrmAcercaDe.resources
+C:\Users\Arián\documents\visual studio 2013\Projects\Liga\Liga\obj\Debug\Liga.FrmConsulta.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\bin\Debug\Liga.exe.config
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.exe
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.pdb
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\bin\Debug\Liga.exe
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\bin\Debug\Liga.pdb
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.csprojResolveAssemblyReference.cache
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmAcercaDe.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmConsulta.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.Properties.Resources.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.csproj.GenerateResource.Cache
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmHome.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmHelp.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmSalida.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmHomeDefault.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmPosicion.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmTemporada.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmEquipo.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmJugador.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmJuego.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmEncuentro.resources
+D:\School\2do año\2do semestre\BD\Proyecto\Mi proyecto (La Liga)\Liga\Liga\obj\Debug\Liga.FrmStart.resources
